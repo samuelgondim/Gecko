@@ -1,0 +1,12 @@
+{
+  "x_axis": {
+    "labels": ["May", "Jun", "Jul", "Aug", "Sep"]
+  },
+  "series": [
+    {
+      "data": [
+        10, 2, 24, 18, 35
+      ]
+    }
+  ]
+}
