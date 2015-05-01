@@ -1,12 +1,15 @@
 {
-  "x_axis": {
-    "labels": ["May", "Jun", "Jul", "Aug", "Sep"]
-  },
-  "series": [
-    {
-      "data": [
-        10, 2, 24, 18, 35
-      ]
+    "api_key": "c083e42adf83687883dfb7f008362c4a",
+    "data": {
+        "x_axis": {
+            "labels": ["May", "Jun", "Jul", "Aug", "Sep"]
+        },
+        "series": [
+            {
+                "data": [
+                    10, 2, 24, 18, 35
+                ]
+            }
+        ]
     }
-  ]
 }
